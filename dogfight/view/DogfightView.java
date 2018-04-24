@@ -11,6 +11,6 @@ public class DogfightView {
 		
 	}
 	public DogfightView(dogfightModel,IDogfightModel, observable)
-	observabl
+
 	
 }
